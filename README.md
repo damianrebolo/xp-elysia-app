@@ -10,8 +10,6 @@ bun run dev
 
 Open http://localhost:3000/ with your browser to see the result.
 
-// docker run --name dev-postgres -p 5432:5432 -e POSTGRES_PASSWORD=12345678 -d postgres
-
 ## Prisma and Docker setup
 
 ```shell
