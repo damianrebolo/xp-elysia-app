@@ -9,6 +9,7 @@
     "seed": "node ./scripts/seed.js"
   },
   "dependencies": {
+    "@elysiajs/swagger": "^1.2.2",
     "@prisma/client": "^6.4.1",
     "elysia": "latest"
   },
